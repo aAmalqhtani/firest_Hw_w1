@@ -4,7 +4,7 @@
 # In[5]:
 
 
-for x in range(0,151):
+for x in range(0,150):
     print(x)
 
 
